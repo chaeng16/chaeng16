@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Chaeyeong%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=%EC%9A%B0%EB%A6%AC%20fisa%20AI%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%206%EA%B8%B0&descSize=20&descAlign=80&descAlignY=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Chaeyeong☺️&fontSize=70&fontAlign=50&fontAlignY=50&desc=우리FISA%20AI%20엔지니어링%206기&descSize=20&descAlign=80&descAlignY=75)
 
 ## 👋 About Me
 👤 **Name:** 민채영 (Min Chaeyoung)  
