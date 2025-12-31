@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Chaeyeong☺️&fontSize=70&fontAlign=50&fontAlignY=50&desc=우리FISA%20AI%20엔지니어링%206기&descSize=20&descAlign=80&descAlignY=75)
 
 ## 👋 About Me
-👤 **Name:** 민채영 (Min Chaeyoung)  
+👤 **Name:** 민채영 (Min Chaeyeong)  
 📅 **Birth:** 2002.02.16  
 🎓 **Major:** Data Science  
 
