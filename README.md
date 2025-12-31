@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Hello+World%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=20&descAlign=50&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=Chaeyeong%21&fontSize=70&fontAlign=50&fontAlignY=50&desc=%EC%9A%B0%EB%A6%AC%20fisa%20AI%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%206%EA%B8%B0&descSize=20&descAlign=80&descAlignY=75)
 
 ## 👋 About Me
+👤 **Name:** 민채영 (Min Chaeyoung)  
+📅 **Birth:** 2002.02.16  
 🎓 **Major:** Data Science  
 
 📊 I am a Data Science student interested in  
@@ -34,14 +36,16 @@ using data to support better decision-making.
 
 ---
 
-### 🏆 Awards
+### 🏆 Awards & Certifications
+#### 🏆 Awards
 - **[2024] 교내 해커톤 대회 (우수상)** - 데이터 분석 및 모델링 기반 서비스 기획
+
+#### 📜 Certifications
+- **ADsP (데이터분석 준전문가)**
+- **SQLD (SQL 개발자)**
+
+---
 
 ### 🌏 Experience
 - **[2025.01.01 - 2025.02.28] Online Marketing Internship (Sydney, Australia) 🇦🇺**
   - 시드니 소재 온라인 마케팅 회사 현지 인턴십 수료
-
-### 📜 Certifications
-- **ADsP (데이터분석 준전문가)** - 한국데이터산업진흥원
-- **SQLD (SQL 개발자)** - 한국데이터산업진흥원
----
