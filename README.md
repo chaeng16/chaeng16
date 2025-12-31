@@ -40,6 +40,5 @@ using data to support better decision-making.
 ### 🌏 Experience
 - **[2025.01.01 - 2025.02.28] Online Marketing Internship (Sydney, Australia) 🇦🇺**
   - 시드니 소재 온라인 마케팅 회사 현지 인턴십 수료
-  - 글로벌 마케팅 데이터 모니터링 및 성과 지표(KPI) 분석 지원
 
 ---
