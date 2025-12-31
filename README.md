@@ -43,12 +43,3 @@ using data to support better decision-making.
   - 글로벌 마케팅 데이터 모니터링 및 성과 지표(KPI) 분석 지원
 
 ---
-
-### 📊 My Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaeng16&show_icons=true&theme=radical" />
-  <br>
-  <a href="https://solved.ac/chaeng16">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chaeng16" alt="Solved.ac Profile" />
-  </a>
-</p>
