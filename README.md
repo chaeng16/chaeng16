@@ -41,4 +41,7 @@ using data to support better decision-making.
 - **[2025.01.01 - 2025.02.28] Online Marketing Internship (Sydney, Australia) 🇦🇺**
   - 시드니 소재 온라인 마케팅 회사 현지 인턴십 수료
 
+### 📜 Certifications
+- **ADsP (데이터분석 준전문가)** - 한국데이터산업진흥원
+- **SQLD (SQL 개발자)** - 한국데이터산업진흥원
 ---
